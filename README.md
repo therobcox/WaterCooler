@@ -13,7 +13,7 @@ WaterCooler is a refreshingly dark theme that works well with Light backgrounds.
 <img width="1920" height="1080" alt="WaterCooler5" src="https://github.com/user-attachments/assets/14e57508-b9b7-4abe-bd4f-739cfeffcc20" />
 
 # Installation
-Download WaterCooler Theme here: <a href="https://www.gnome-look.org/p/2310520/">https://www.gnome-look.org/p/2310520/</a>
+Download WaterCooler Theme here: <a href="https://www.gnome-look.org/p/2316372/">https://www.gnome-look.org/p/2316372/</a>
 
 Right-click on file WaterCooler.tar.xz and select "Extract Here"
 
